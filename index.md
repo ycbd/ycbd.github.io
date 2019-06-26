@@ -61,7 +61,7 @@ B-->>A: 已收到消息
 * [ ] 烹羊宰牛且为乐，会须一饮三百杯;
 * [ ] 岑夫子，丹丘生⑹，将进酒，杯莫停
 
-!https://raw.githubusercontent.com/ycbd/Photo/master/TIM%E6%88%AA%E5%9B%BE20190626160100.png](en-resource://database/10524:1)
+!https://raw.githubusercontent.com/ycbd/Photo/master/TIM%E6%88%AA%E5%9B%BE20190626160100.png]
 ```mermaid
 gantt
 title 甘特图
