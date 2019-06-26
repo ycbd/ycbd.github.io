@@ -35,3 +35,42 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# 将进酒
+**君不见，黄河之水天上，奔流到海不复回。**
+```
+君不见，高堂明镜悲白发，朝如青丝暮成雪
+```
+
+* 人生得意须尽欢⑷，莫使金樽空对月
+* 天生我材必有用，千金散尽还复来
+
+
+| A | B | C |D  |
+| --- | --- | --- | --- |
+|2  | 3 |4  |5  |
+|  A|  |  | 1 |
+|  |  D| D |  |
+```mermaid
+sequenceDiagram
+A->>B: 是否已收到消息？
+B-->>A: 已收到消息
+```
+
+* [ ] 烹羊宰牛且为乐，会须一饮三百杯;
+* [ ] 岑夫子，丹丘生⑹，将进酒，杯莫停
+
+![aec5623d181aa09b200db443bb39a3fe.png](en-resource://database/10524:1)
+```mermaid
+gantt
+title 甘特图
+dateFormat  YYYY-MM-DD
+section 项目A
+任务1           :a1, 2018-06-06, 30d
+任务2     :after a1  , 20d
+section 项目B
+任务3      :2018-06-12  , 12d
+任务4      : 24d
+```
+
